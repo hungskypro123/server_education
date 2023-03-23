@@ -1,80 +1,125 @@
-{"temputure": [
-        {
-        "id": 1,
-        "city": "Hà Nội",
-        "dateTime": "Mon",
-        "temparature": 35,
-        "weatherType": "Sunny",
-        "icon": "./../assets/icon_weather/WeatherIcon-1-43.png",
-        "wind": 14,
-        "rain": 50,
-        "humidity": 70
-        },
-        {
-        "id": 2,
-        "city": "Hà Nội",
-        "dateTime": "Tue",
-        "temparature": 36,
-        "weatherType": "Cloudy",
-        "icon": "./../assets/icon_weather/WeatherIcon-1-60.png",
-        "wind": 8,
-        "rain": 7,
-        "humidity": 82
-        },
-        {
-        "id": 3,
-        "city": "Hà Nội",
-        "dateTime": "Wed",
-        "temparature": 34,
-        "weatherType": "Sunny",
-        "icon": "./../assets/icon_weather/WeatherIcon-1-45.png",
-        "wind": 5,
-        "rain": 15,
-        "humidity": 61
-        },
-        {
-        "id": 4,
-        "city": "Hà Nội",
-        "dateTime": "Thu",
-        "temparature": 35,
-        "weatherType": "Rainy",
-        "icon": "./../assets/icon_weather/WeatherIcon-1-22.png",
-        "wind": 20,
-        "rain": 70,
-        "humidity": 91
-        },
-        {
-        "id": 5,
-        "city": "Hà Nội",
-        "dateTime": "Fri",
-        "temparature": 35,
-        "weatherType": "Rainy",
-        "icon": "./../assets/icon_weather/WeatherIcon-1-39.png",
-        "wind": 20,
-        "rain": 70,
-        "humidity": 91
-        },
-        {
-        "id": 6,
-        "city": "Hà Nội",
-        "dateTime": "Sat",
-        "temparature": 35,
-        "weatherType": "Rainy",
-        "icon": "./../assets/icon_weather/WeatherIcon-1-23.png",
-        "wind": 20,
-        "rain": 70,
-        "humidity": 91
-        },
-        {
-        "id": 7,
-        "city": "Hà Nội",
-        "dateTime": "Sun",
-        "temparature": 35,
-        "weatherType": "Rainy",
-        "icon": "./../assets/icon_weather/WeatherIcon-1-25.png",
-        "wind": 20,
-        "rain": 70,
-        "humidity": 91
-        }
+{
+    "response_code": 0,
+    "results": [
+    {
+    "category": "Entertainment%3A%20Video%20Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who%20is%20the%20villain%20company%20in%20%22Stardew%20Valley%22%3F",
+    "correct_answer": "Joja%20Co%20",
+    "incorrect_answers": [
+    "Ronin",
+    "Empire",
+    "Robotnik%20Industry%27s%20"
     ]
-}
+    },
+    {
+    "category": "General%20Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What%20is%20on%20display%20in%20the%20Madame%20Tussaud%27s%20museum%20in%20London%3F",
+    "correct_answer": "Wax%20sculptures",
+    "incorrect_answers": [
+    "Designer%20clothing",
+    "Unreleased%20film%20reels",
+    "Vintage%20cars"
+    ]
+    },
+    {
+    "category": "Vehicles",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which%20car%20is%20the%20first%20mass-produced%20hybrid%20vehicle%3F",
+    "correct_answer": "Toyota%20Prius",
+    "incorrect_answers": [
+    "Chevrolet%20Volt",
+    "Honda%20Fit",
+    "Peugeot%20308%20R%20HYbrid"
+    ]
+    },
+    {
+    "category": "Science%20%26%20Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The%20human%20right%20lung%20has%20how%20many%20lobes%3F",
+    "correct_answer": "3",
+    "incorrect_answers": [
+    "4",
+    "2",
+    "1"
+    ]
+    },
+    {
+    "category": "Entertainment%3A%20Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The%20book%20%22The%20Little%20Prince%22%20was%20written%20by...",
+    "correct_answer": "Antoine%20de%20Saint-Exup%C3%A9ry",
+    "incorrect_answers": [
+    "Miguel%20de%20Cervantes%20Saavedra",
+    "Jane%20Austen",
+    "F.%20Scott%20Fitzgerald"
+    ]
+    },
+    {
+    "category": "Entertainment%3A%20Video%20Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20which%20weapon%20does%20NOT%20deal%20any%20damage%3F",
+    "correct_answer": "31-79%20JGb215",
+    "incorrect_answers": [
+    "Sliquifier",
+    "V-R11",
+    "Wunderwaffe%20DG-2"
+    ]
+    },
+    {
+    "category": "Entertainment%3A%20Video%20Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The%20Khajiit%20are%20a%20race%20of%20cat-like%20creatures%20from%20which%20epic%20series%20of%20role-playing%20games%2C%20set%20across%20the%20land%20of%20Tamriel%3F",
+    "correct_answer": "The%20Elder%20Scrolls",
+    "incorrect_answers": [
+    "Lord%20of%20the%20Rings",
+    "The%20Witcher",
+    "Neverwinter%20Nights"
+    ]
+    },
+    {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What%20is%20the%20scientific%20name%20of%20the%20Common%20Chimpanzee%3F",
+    "correct_answer": "Pan%20troglodytes",
+    "incorrect_answers": [
+    "Gorilla%20gorilla",
+    "Pan%20paniscus",
+    "Panthera%20leo"
+    ]
+    },
+    {
+    "category": "General%20Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The%20word%20%22aprosexia%22%20means%20which%20of%20the%20following%3F",
+    "correct_answer": "The%20inability%20to%20concentrate%20on%20anything",
+    "incorrect_answers": [
+    "The%20inability%20to%20make%20decisions",
+    "A%20feverish%20desire%20to%20rip%20one%27s%20clothes%20off",
+    "The%20inability%20to%20stand%20up"
+    ]
+    },
+    {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What%20animal%20did%20Queen%20Pasipahe%20sleep%20with%20before%20she%20gave%20birth%20to%20the%20Minotaur%20in%20Greek%20Mythology%3F",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+    "Pig",
+    "Ox",
+    "Horse"
+    ]
+    }
+    ]
+    }

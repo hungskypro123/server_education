@@ -15,6 +15,9 @@ const router = app => {
     app.get('/users', (request, response) => {
         response.send(users);
     });
+    app.get('/', (request, response) => {
+        response.send(db);
+    });
 }
 
 module.exports = router;
