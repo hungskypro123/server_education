@@ -1,0 +1,80 @@
+{"temputure": [
+        {
+        "id": 1,
+        "city": "Hà Nội",
+        "dateTime": "Mon",
+        "temparature": 35,
+        "weatherType": "Sunny",
+        "icon": "./../assets/icon_weather/WeatherIcon-1-43.png",
+        "wind": 14,
+        "rain": 50,
+        "humidity": 70
+        },
+        {
+        "id": 2,
+        "city": "Hà Nội",
+        "dateTime": "Tue",
+        "temparature": 36,
+        "weatherType": "Cloudy",
+        "icon": "./../assets/icon_weather/WeatherIcon-1-60.png",
+        "wind": 8,
+        "rain": 7,
+        "humidity": 82
+        },
+        {
+        "id": 3,
+        "city": "Hà Nội",
+        "dateTime": "Wed",
+        "temparature": 34,
+        "weatherType": "Sunny",
+        "icon": "./../assets/icon_weather/WeatherIcon-1-45.png",
+        "wind": 5,
+        "rain": 15,
+        "humidity": 61
+        },
+        {
+        "id": 4,
+        "city": "Hà Nội",
+        "dateTime": "Thu",
+        "temparature": 35,
+        "weatherType": "Rainy",
+        "icon": "./../assets/icon_weather/WeatherIcon-1-22.png",
+        "wind": 20,
+        "rain": 70,
+        "humidity": 91
+        },
+        {
+        "id": 5,
+        "city": "Hà Nội",
+        "dateTime": "Fri",
+        "temparature": 35,
+        "weatherType": "Rainy",
+        "icon": "./../assets/icon_weather/WeatherIcon-1-39.png",
+        "wind": 20,
+        "rain": 70,
+        "humidity": 91
+        },
+        {
+        "id": 6,
+        "city": "Hà Nội",
+        "dateTime": "Sat",
+        "temparature": 35,
+        "weatherType": "Rainy",
+        "icon": "./../assets/icon_weather/WeatherIcon-1-23.png",
+        "wind": 20,
+        "rain": 70,
+        "humidity": 91
+        },
+        {
+        "id": 7,
+        "city": "Hà Nội",
+        "dateTime": "Sun",
+        "temparature": 35,
+        "weatherType": "Rainy",
+        "icon": "./../assets/icon_weather/WeatherIcon-1-25.png",
+        "wind": 20,
+        "rain": 70,
+        "humidity": 91
+        }
+    ]
+}
